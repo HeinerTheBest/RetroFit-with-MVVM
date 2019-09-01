@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Retrofit with MVVM</string>
+    <string name="picture_of_hero">Picture of Hero</string>
 </resources>
